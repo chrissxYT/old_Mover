@@ -1,0 +1,11 @@
+H:\Mover\Mover\bin\Debug\Mover.exe.config
+H:\Mover\Mover\bin\Debug\Mover.exe
+H:\Mover\Mover\bin\Debug\Mover.pdb
+H:\Mover\Mover\obj\Debug\Mover.csprojResolveAssemblyReference.cache
+H:\Mover\Mover\obj\Debug\Mover.csproj.CoreCompileInputs.cache
+H:\Mover\Mover\obj\Debug\Mover.exe
+H:\Mover\Mover\obj\Debug\Mover.pdb
+H:\Mover\Mover\obj\Debug\Mover.MovingDialog.resources
+H:\Mover\Mover\obj\Debug\Mover.csproj.GenerateResource.Cache
+H:\Mover\Mover\obj\Debug\Mover.GUI.resources
+H:\Mover\Mover\obj\Debug\Mover.UpdateDialog.resources

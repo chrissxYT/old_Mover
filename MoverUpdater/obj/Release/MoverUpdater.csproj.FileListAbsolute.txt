@@ -1,0 +1,7 @@
+H:\Mover\MoverUpdater\bin\Release\MoverUpdater.exe.config
+H:\Mover\MoverUpdater\bin\Release\MoverUpdater.exe
+H:\Mover\MoverUpdater\bin\Release\MoverUpdater.pdb
+H:\Mover\MoverUpdater\obj\Release\MoverUpdater.csprojResolveAssemblyReference.cache
+H:\Mover\MoverUpdater\obj\Release\MoverUpdater.csproj.CoreCompileInputs.cache
+H:\Mover\MoverUpdater\obj\Release\MoverUpdater.exe
+H:\Mover\MoverUpdater\obj\Release\MoverUpdater.pdb

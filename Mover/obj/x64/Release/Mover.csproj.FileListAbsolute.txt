@@ -1,0 +1,13 @@
+H:\Mover\Mover\obj\x64\Release\Mover.csprojResolveAssemblyReference.cache
+H:\Mover\Mover\obj\x64\Release\Mover.MovingDialog.resources
+H:\Mover\Mover\obj\x64\Release\Mover.csproj.GenerateResource.Cache
+H:\Mover\Mover\obj\x64\Release\Mover.csproj.CoreCompileInputs.cache
+H:\Mover\Mover\bin\x64\Release\CThreading.dll
+H:\Mover\Mover\obj\x64\Release\Mover.GUI.resources
+H:\Mover\Mover\obj\x64\Release\Mover.UpdateDialog.resources
+H:\Mover\Mover\obj\x64\Release\Mover.Properties.Resources.resources
+H:\Mover\Mover\bin\x64\Release\Mover.exe.config
+H:\Mover\Mover\bin\x64\Release\Mover.exe
+H:\Mover\Mover\bin\x64\Release\Mover.pdb
+H:\Mover\Mover\obj\x64\Release\Mover.exe
+H:\Mover\Mover\obj\x64\Release\Mover.pdb
